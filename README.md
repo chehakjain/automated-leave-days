@@ -44,6 +44,7 @@ The system reduces manual HR work and provides **instant responses to employees*
 Add your n8n workflow screenshot below.
 
 ![n8n Workflow](images/n8n-workflow.png)
+<img width="1094" height="392" alt="image" src="https://github.com/user-attachments/assets/88ff6353-1651-4ac0-a564-7bb13c46d38d" />
 
 ---
 
@@ -52,6 +53,7 @@ Add your n8n workflow screenshot below.
 Add your analytics or Google Sheets dashboard screenshot below.
 
 ![Dashboard Screenshot](images/dashboard.png)
+<img width="799" height="445" alt="Screenshot 2026-04-01 155549" src="https://github.com/user-attachments/assets/a40c54da-970b-4617-a121-8c1e3c52af38" />
 
 The dashboard can display:
 - Total leave requests
